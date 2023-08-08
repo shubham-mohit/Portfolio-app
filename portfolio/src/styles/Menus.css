@@ -1,0 +1,29 @@
+.profile-image img{
+    border-radius: 19px;
+    display: flex;
+    height: 160px;
+    width: 160px;
+    vertical-align: middle;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.nav-item {
+    color: white;
+    margin-top: 30px;
+    margin-left: 10%;
+    /* text-align: center; */
+}
+
+.navbar-links {
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.navbar-links svg{
+    margin-right: 10px;
+}
+
+.navbar-links:hover{
+    color: aqua;
+}

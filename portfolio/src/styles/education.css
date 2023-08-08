@@ -1,0 +1,19 @@
+.education{
+    padding-left: 240px;
+    margin-top: 50px;
+}
+.education h2{
+    color: rgb(56, 238, 56);
+}
+.education .outerbox {
+    background-color: rgba(128, 128, 128, 0.247);
+}
+
+
+
+@media (max-width:600px){
+    .education{
+        margin: 0px;
+        padding: 0px;
+    }
+}
